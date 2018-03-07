@@ -1,0 +1,313 @@
+{"event":"synchronization harvest submitted","nodeId":"urn:node:R2R","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-10","threadId":72,"dateLogged":"2018-03-05T13:06:00.308+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:NCEI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-17","threadId":79,"dateLogged":"2018-03-05T13:06:00.347+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:NCEI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-17","threadId":79,"dateLogged":"2018-03-05T13:06:00.347+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:GRIIDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-6","threadId":68,"dateLogged":"2018-03-05T13:06:00.308+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:GRIIDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-6","threadId":68,"dateLogged":"2018-03-05T13:06:00.308+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:TERN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-19","threadId":81,"dateLogged":"2018-03-05T13:06:00.760+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:TERN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-19","threadId":81,"dateLogged":"2018-03-05T13:06:00.760+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:NKN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-22","threadId":84,"dateLogged":"2018-03-05T13:06:01.718+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:NKN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-22","threadId":84,"dateLogged":"2018-03-05T13:06:01.718+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:EDI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-8","threadId":70,"dateLogged":"2018-03-05T13:06:01.809+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:EDI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-8","threadId":70,"dateLogged":"2018-03-05T13:06:01.809+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:US_MPC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-14","threadId":76,"dateLogged":"2018-03-05T13:06:02.368+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:US_MPC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-14","threadId":76,"dateLogged":"2018-03-05T13:06:02.368+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:ESA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-18","threadId":80,"dateLogged":"2018-03-05T13:06:10.209+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:ESA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-18","threadId":80,"dateLogged":"2018-03-05T13:06:10.209+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:GOA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-2","threadId":64,"dateLogged":"2018-03-05T13:06:10.343+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:GOA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-2","threadId":64,"dateLogged":"2018-03-05T13:06:10.343+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:NEON","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-5","threadId":67,"dateLogged":"2018-03-05T13:06:10.347+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:NEON","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-5","threadId":67,"dateLogged":"2018-03-05T13:06:10.347+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:KNB","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-4","threadId":66,"dateLogged":"2018-03-05T13:06:10.479+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:KNB","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-4","threadId":66,"dateLogged":"2018-03-05T13:06:10.479+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:CLOEBIRD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-1","threadId":63,"dateLogged":"2018-03-05T13:06:10.479+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:CLOEBIRD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-1","threadId":63,"dateLogged":"2018-03-05T13:06:10.479+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:ARCTIC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-24","threadId":86,"dateLogged":"2018-03-05T13:06:10.540+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:ARCTIC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-24","threadId":86,"dateLogged":"2018-03-05T13:06:10.540+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:TFRI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-9","threadId":71,"dateLogged":"2018-03-05T13:06:10.640+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:TFRI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-9","threadId":71,"dateLogged":"2018-03-05T13:06:10.640+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:DRYAD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-16","threadId":78,"dateLogged":"2018-03-05T13:06:10.652+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:DRYAD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-16","threadId":78,"dateLogged":"2018-03-05T13:06:10.652+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:LTER_EUROPE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-25","threadId":87,"dateLogged":"2018-03-05T13:06:10.663+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:LTER_EUROPE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-25","threadId":87,"dateLogged":"2018-03-05T13:06:10.663+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:IOE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-13","threadId":75,"dateLogged":"2018-03-05T13:06:10.708+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:IOE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-13","threadId":75,"dateLogged":"2018-03-05T13:06:10.708+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:PISCO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-3","threadId":65,"dateLogged":"2018-03-05T13:06:10.782+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:PISCO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-3","threadId":65,"dateLogged":"2018-03-05T13:06:10.782+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:OTS_NDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-7","threadId":69,"dateLogged":"2018-03-05T13:06:11.467+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:OTS_NDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-7","threadId":69,"dateLogged":"2018-03-05T13:06:11.467+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:PPBIO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-23","threadId":85,"dateLogged":"2018-03-05T13:06:11.487+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:PPBIO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-23","threadId":85,"dateLogged":"2018-03-05T13:06:11.487+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:SANPARKS","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-11","threadId":73,"dateLogged":"2018-03-05T13:06:22.766+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:SANPARKS","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-11","threadId":73,"dateLogged":"2018-03-05T13:06:22.766+00:00"}
+{"event":"synchronization queued","message":"Total Sync Objects Queued: 0","threadName":"SynchronizationQuartzScheduler_Worker-21","threadId":83,"dateLogged":"2018-03-05T13:06:36.613+00:00"}
+{"event":"replication status","nodeId":"urn:node:CLOEBIRD","message":"Replica Status COMPLETED:  15","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:DRYAD","message":"Replica Status COMPLETED:  247313","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:KNB","message":"Replica Status INVALIDATED:  197","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnORC1","message":"Replica Status QUEUED:  4","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:SANPARKS","message":"Replica Status INVALIDATED:  4424","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:TERN","message":"Replica Status COMPLETED:  12166","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:US_MPC","message":"Replica Status COMPLETED:  6467","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:US_MPC","message":"Replica Status INVALIDATED:  9","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:KNB","message":"Replica Status FAILED:  964","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:LTER","message":"Replica Status COMPLETED:  412110","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:USGSCSAS","message":"Replica Status COMPLETED:  1151","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:SANPARKS","message":"Replica Status COMPLETED:  2001","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:IARC","message":"Replica Status FAILED:  73","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnORC1","message":"Replica Status COMPLETED:  27087","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:ORNLDAAC","message":"Replica Status INVALIDATED:  977","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:TFRI","message":"Replica Status INVALIDATED:  4","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:KNB","message":"Replica Status COMPLETED:  107218","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:NEON","message":"Replica Status COMPLETED:  487","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:CN","message":"Replica Status COMPLETED:  1046336","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:USGS_SDC","message":"Replica Status COMPLETED:  40180","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:US_MPC","message":"Replica Status FAILED:  344","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:NMEPSCOR","message":"Replica Status FAILED:  133","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:PANGAEA","message":"Replica Status COMPLETED:  195173","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:TFRI","message":"Replica Status FAILED:  769","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnUNM1","message":"Replica Status COMPLETED:  17264","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnORC1","message":"Replica Status INVALIDATED:  261","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:ONEShare","message":"Replica Status COMPLETED:  1772","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:NMEPSCOR","message":"Replica Status COMPLETED:  7462","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnUCSB1","message":"Replica Status QUEUED:  2","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:LTER","message":"Replica Status INVALIDATED:  146","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:RW","message":"Replica Status COMPLETED:  628","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:FEMC","message":"Replica Status COMPLETED:  1590","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:USGSCSAS","message":"Replica Status INVALIDATED:  104","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnUCSB1","message":"Replica Status FAILED:  1419","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:EDORA","message":"Replica Status COMPLETED:  28","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:NRDC","message":"Replica Status COMPLETED:  6663","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:ORNLDAAC","message":"Replica Status COMPLETED:  3328","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:ESA","message":"Replica Status COMPLETED:  253","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:TFRI","message":"Replica Status COMPLETED:  7557","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:IARC","message":"Replica Status COMPLETED:  6155","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:EDI","message":"Replica Status COMPLETED:  1297","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:NKN","message":"Replica Status COMPLETED:  4878","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:BCODMO","message":"Replica Status COMPLETED:  35","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:R2R","message":"Replica Status COMPLETED:  1787","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:PPBIO","message":"Replica Status COMPLETED:  3257","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:IARC","message":"Replica Status INVALIDATED:  1","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:EDACGSTORE","message":"Replica Status COMPLETED:  1075","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:PISCO","message":"Replica Status COMPLETED:  180710","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:ARCTIC","message":"Replica Status COMPLETED:  709191","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnUNM1","message":"Replica Status INVALIDATED:  20","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnORC1","message":"Replica Status FAILED:  2185","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:UIC","message":"Replica Status FAILED:  562","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:USANPN","message":"Replica Status COMPLETED:  38","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:IOE","message":"Replica Status COMPLETED:  279","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnUCSB1","message":"Replica Status COMPLETED:  28779","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:NKN","message":"Replica Status FAILED:  1071","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:NKN","message":"Replica Status INVALIDATED:  1","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:CDL","message":"Replica Status COMPLETED:  242115","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:UIC","message":"Replica Status COMPLETED:  633","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnUCSB1","message":"Replica Status INVALIDATED:  9","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnUNM1","message":"Replica Status FAILED:  4230","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:LTER_EUROPE","message":"Replica Status COMPLETED:  343","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:KNB","message":"Replica Status QUEUED:  4","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:RGD","message":"Replica Status COMPLETED:  273","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:SEAD","message":"Replica Status COMPLETED:  85","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:TDAR","message":"Replica Status COMPLETED:  74000","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:KUBI","message":"Replica Status COMPLETED:  516","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:NCEI","message":"Replica Status COMPLETED:  50515","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:GRIIDC","message":"Replica Status COMPLETED:  1998","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:GOA","message":"Replica Status COMPLETED:  3255","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"replication status","nodeId":"urn:node:OTS_NDC","message":"Replica Status COMPLETED:  126","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:07:05.886+00:00"}
+{"event":"synchronization queued","message":"Total Sync Objects Queued: 0","threadName":"SynchronizationQuartzScheduler_Worker-15","threadId":77,"dateLogged":"2018-03-05T13:07:36.613+00:00"}
+{"event":"synchronization queued","message":"Total Sync Objects Queued: 0","threadName":"SynchronizationQuartzScheduler_Worker-20","threadId":82,"dateLogged":"2018-03-05T13:08:36.617+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:NCEI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-6","threadId":68,"dateLogged":"2018-03-05T13:09:00.224+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:NCEI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-6","threadId":68,"dateLogged":"2018-03-05T13:09:00.224+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:R2R","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-8","threadId":70,"dateLogged":"2018-03-05T13:09:00.256+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:R2R","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-8","threadId":70,"dateLogged":"2018-03-05T13:09:00.256+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:NMEPSCOR","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-22","threadId":84,"dateLogged":"2018-03-05T13:09:00.396+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:NMEPSCOR","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-22","threadId":84,"dateLogged":"2018-03-05T13:09:00.396+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:GRIIDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-10","threadId":72,"dateLogged":"2018-03-05T13:09:00.399+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:GRIIDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-10","threadId":72,"dateLogged":"2018-03-05T13:09:00.399+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:NKN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-19","threadId":81,"dateLogged":"2018-03-05T13:09:00.422+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:NKN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-19","threadId":81,"dateLogged":"2018-03-05T13:09:00.422+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:LTER","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-17","threadId":79,"dateLogged":"2018-03-05T13:09:00.432+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:LTER","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-17","threadId":79,"dateLogged":"2018-03-05T13:09:00.432+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:EDI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-12","threadId":74,"dateLogged":"2018-03-05T13:09:00.455+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:EDI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-12","threadId":74,"dateLogged":"2018-03-05T13:09:00.455+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:US_MPC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-18","threadId":80,"dateLogged":"2018-03-05T13:09:00.515+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:US_MPC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-18","threadId":80,"dateLogged":"2018-03-05T13:09:00.515+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:TERN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-14","threadId":76,"dateLogged":"2018-03-05T13:09:04.150+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:TERN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-14","threadId":76,"dateLogged":"2018-03-05T13:09:04.150+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:ESA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-1","threadId":63,"dateLogged":"2018-03-05T13:09:10.284+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:ESA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-1","threadId":63,"dateLogged":"2018-03-05T13:09:10.284+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:NEON","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-13","threadId":75,"dateLogged":"2018-03-05T13:09:10.398+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:NEON","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-13","threadId":75,"dateLogged":"2018-03-05T13:09:10.398+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:CLOEBIRD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-5","threadId":67,"dateLogged":"2018-03-05T13:09:10.404+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:CLOEBIRD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-5","threadId":67,"dateLogged":"2018-03-05T13:09:10.404+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:GOA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-24","threadId":86,"dateLogged":"2018-03-05T13:09:10.451+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:GOA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-24","threadId":86,"dateLogged":"2018-03-05T13:09:10.451+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:DRYAD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-4","threadId":66,"dateLogged":"2018-03-05T13:09:10.582+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:DRYAD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-4","threadId":66,"dateLogged":"2018-03-05T13:09:10.582+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:KNB","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-16","threadId":78,"dateLogged":"2018-03-05T13:09:10.590+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:KNB","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-16","threadId":78,"dateLogged":"2018-03-05T13:09:10.590+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:IOE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-9","threadId":71,"dateLogged":"2018-03-05T13:09:10.591+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:IOE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-9","threadId":71,"dateLogged":"2018-03-05T13:09:10.591+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:ARCTIC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-2","threadId":64,"dateLogged":"2018-03-05T13:09:10.677+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:ARCTIC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-2","threadId":64,"dateLogged":"2018-03-05T13:09:10.677+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:TFRI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-21","threadId":83,"dateLogged":"2018-03-05T13:09:10.702+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:TFRI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-21","threadId":83,"dateLogged":"2018-03-05T13:09:10.702+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:PISCO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-7","threadId":69,"dateLogged":"2018-03-05T13:09:10.842+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:PISCO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-7","threadId":69,"dateLogged":"2018-03-05T13:09:10.842+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:OTS_NDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-3","threadId":65,"dateLogged":"2018-03-05T13:09:10.914+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:OTS_NDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-3","threadId":65,"dateLogged":"2018-03-05T13:09:10.914+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:LTER_EUROPE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-25","threadId":87,"dateLogged":"2018-03-05T13:09:10.943+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:LTER_EUROPE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-25","threadId":87,"dateLogged":"2018-03-05T13:09:10.943+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:PPBIO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-23","threadId":85,"dateLogged":"2018-03-05T13:09:11.277+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:PPBIO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-23","threadId":85,"dateLogged":"2018-03-05T13:09:11.277+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:SANPARKS","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-11","threadId":73,"dateLogged":"2018-03-05T13:09:23.362+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:SANPARKS","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-11","threadId":73,"dateLogged":"2018-03-05T13:09:23.362+00:00"}
+{"event":"synchronization queued","message":"Total Sync Objects Queued: 0","threadName":"SynchronizationQuartzScheduler_Worker-15","threadId":77,"dateLogged":"2018-03-05T13:09:36.613+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:USGS_SDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-6","threadId":68,"dateLogged":"2018-03-05T13:10:00.461+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:USGS_SDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-6","threadId":68,"dateLogged":"2018-03-05T13:10:00.461+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:BCODMO","message":"5","threadName":"SynchronizationQuartzScheduler_Worker-20","threadId":82,"dateLogged":"2018-03-05T13:10:01.298+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:BCODMO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-20","threadId":82,"dateLogged":"2018-03-05T13:10:01.298+00:00"}
+{"event":"synchronization queued","message":"Total Sync Objects Queued: 0","threadName":"SynchronizationQuartzScheduler_Worker-8","threadId":70,"dateLogged":"2018-03-05T13:10:36.613+00:00"}
+{"event":"synchronization queued","message":"Total Sync Objects Queued: 109","threadName":"SynchronizationQuartzScheduler_Worker-10","threadId":72,"dateLogged":"2018-03-05T13:11:36.624+00:00"}
+{"event":"synchronization queued","nodeId":"urn:node:PANGAEA","message":"Sync Objects Queued: 109","threadName":"SynchronizationQuartzScheduler_Worker-10","threadId":72,"dateLogged":"2018-03-05T13:11:36.624+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:NKN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-14","threadId":76,"dateLogged":"2018-03-05T13:12:00.220+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:NKN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-14","threadId":76,"dateLogged":"2018-03-05T13:12:00.220+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:US_MPC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-24","threadId":86,"dateLogged":"2018-03-05T13:12:00.267+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:US_MPC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-24","threadId":86,"dateLogged":"2018-03-05T13:12:00.267+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:EDI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-19","threadId":81,"dateLogged":"2018-03-05T13:12:00.289+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:EDI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-19","threadId":81,"dateLogged":"2018-03-05T13:12:00.289+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:GRIIDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-17","threadId":79,"dateLogged":"2018-03-05T13:12:00.358+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:GRIIDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-17","threadId":79,"dateLogged":"2018-03-05T13:12:00.358+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:NMEPSCOR","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-1","threadId":63,"dateLogged":"2018-03-05T13:12:00.367+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:NMEPSCOR","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-1","threadId":63,"dateLogged":"2018-03-05T13:12:00.367+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:LTER","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-12","threadId":74,"dateLogged":"2018-03-05T13:12:00.407+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:LTER","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-12","threadId":74,"dateLogged":"2018-03-05T13:12:00.407+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:NCEI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-18","threadId":80,"dateLogged":"2018-03-05T13:12:00.448+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:NCEI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-18","threadId":80,"dateLogged":"2018-03-05T13:12:00.448+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:R2R","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-13","threadId":75,"dateLogged":"2018-03-05T13:12:00.534+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:R2R","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-13","threadId":75,"dateLogged":"2018-03-05T13:12:00.534+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:TERN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-5","threadId":67,"dateLogged":"2018-03-05T13:12:00.838+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:TERN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-5","threadId":67,"dateLogged":"2018-03-05T13:12:00.838+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:ESA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-2","threadId":64,"dateLogged":"2018-03-05T13:12:10.466+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:ESA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-2","threadId":64,"dateLogged":"2018-03-05T13:12:10.466+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:CLOEBIRD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-16","threadId":78,"dateLogged":"2018-03-05T13:12:10.469+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:CLOEBIRD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-16","threadId":78,"dateLogged":"2018-03-05T13:12:10.469+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:DRYAD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-9","threadId":71,"dateLogged":"2018-03-05T13:12:10.527+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:DRYAD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-9","threadId":71,"dateLogged":"2018-03-05T13:12:10.527+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:NEON","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-23","threadId":85,"dateLogged":"2018-03-05T13:12:10.615+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:NEON","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-23","threadId":85,"dateLogged":"2018-03-05T13:12:10.615+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:OTS_NDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-11","threadId":73,"dateLogged":"2018-03-05T13:12:10.704+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:OTS_NDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-11","threadId":73,"dateLogged":"2018-03-05T13:12:10.704+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:GOA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-21","threadId":83,"dateLogged":"2018-03-05T13:12:10.874+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:GOA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-21","threadId":83,"dateLogged":"2018-03-05T13:12:10.874+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:KNB","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-3","threadId":65,"dateLogged":"2018-03-05T13:12:10.892+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:KNB","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-3","threadId":65,"dateLogged":"2018-03-05T13:12:10.892+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:TFRI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-8","threadId":70,"dateLogged":"2018-03-05T13:12:10.945+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:TFRI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-8","threadId":70,"dateLogged":"2018-03-05T13:12:10.945+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:LTER_EUROPE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-25","threadId":87,"dateLogged":"2018-03-05T13:12:11.045+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:LTER_EUROPE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-25","threadId":87,"dateLogged":"2018-03-05T13:12:11.045+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:ARCTIC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-4","threadId":66,"dateLogged":"2018-03-05T13:12:11.052+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:ARCTIC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-4","threadId":66,"dateLogged":"2018-03-05T13:12:11.052+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:IOE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-7","threadId":69,"dateLogged":"2018-03-05T13:12:11.089+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:IOE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-7","threadId":69,"dateLogged":"2018-03-05T13:12:11.089+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:PISCO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-15","threadId":77,"dateLogged":"2018-03-05T13:12:11.159+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:PISCO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-15","threadId":77,"dateLogged":"2018-03-05T13:12:11.159+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:PPBIO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-6","threadId":68,"dateLogged":"2018-03-05T13:12:11.727+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:PPBIO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-6","threadId":68,"dateLogged":"2018-03-05T13:12:11.727+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:SANPARKS","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-20","threadId":82,"dateLogged":"2018-03-05T13:12:23.523+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:SANPARKS","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-20","threadId":82,"dateLogged":"2018-03-05T13:12:23.523+00:00"}
+{"event":"synchronization queued","message":"Total Sync Objects Queued: 364","threadName":"SynchronizationQuartzScheduler_Worker-10","threadId":72,"dateLogged":"2018-03-05T13:12:36.612+00:00"}
+{"event":"synchronization queued","nodeId":"urn:node:PANGAEA","message":"Sync Objects Queued: 364","threadName":"SynchronizationQuartzScheduler_Worker-10","threadId":72,"dateLogged":"2018-03-05T13:12:36.612+00:00"}
+{"event":"synchronization queued","message":"Total Sync Objects Queued: 634","threadName":"SynchronizationQuartzScheduler_Worker-14","threadId":76,"dateLogged":"2018-03-05T13:13:36.613+00:00"}
+{"event":"synchronization queued","nodeId":"urn:node:PANGAEA","message":"Sync Objects Queued: 634","threadName":"SynchronizationQuartzScheduler_Worker-14","threadId":76,"dateLogged":"2018-03-05T13:13:36.613+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:PANGAEA","message":"1270","threadName":"SynchronizationQuartzScheduler_Worker-22","threadId":84,"dateLogged":"2018-03-05T13:14:21.046+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:PANGAEA","message":"900","threadName":"SynchronizationQuartzScheduler_Worker-22","threadId":84,"dateLogged":"2018-03-05T13:14:21.046+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:NCEI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-12","threadId":74,"dateLogged":"2018-03-05T13:15:00.329+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:NCEI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-12","threadId":74,"dateLogged":"2018-03-05T13:15:00.329+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:R2R","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-5","threadId":67,"dateLogged":"2018-03-05T13:15:00.519+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:R2R","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-5","threadId":67,"dateLogged":"2018-03-05T13:15:00.519+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:NMEPSCOR","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-13","threadId":75,"dateLogged":"2018-03-05T13:15:00.608+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:NMEPSCOR","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-13","threadId":75,"dateLogged":"2018-03-05T13:15:00.608+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:EDI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-19","threadId":81,"dateLogged":"2018-03-05T13:15:00.621+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:EDI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-19","threadId":81,"dateLogged":"2018-03-05T13:15:00.621+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:LTER","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-1","threadId":63,"dateLogged":"2018-03-05T13:15:00.628+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:LTER","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-1","threadId":63,"dateLogged":"2018-03-05T13:15:00.628+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:US_MPC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-9","threadId":71,"dateLogged":"2018-03-05T13:15:00.628+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:US_MPC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-9","threadId":71,"dateLogged":"2018-03-05T13:15:00.628+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:USGS_SDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-16","threadId":78,"dateLogged":"2018-03-05T13:15:00.630+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:USGS_SDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-16","threadId":78,"dateLogged":"2018-03-05T13:15:00.630+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:NKN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-18","threadId":80,"dateLogged":"2018-03-05T13:15:00.813+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:NKN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-18","threadId":80,"dateLogged":"2018-03-05T13:15:00.813+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:GRIIDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-17","threadId":79,"dateLogged":"2018-03-05T13:15:00.821+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:GRIIDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-17","threadId":79,"dateLogged":"2018-03-05T13:15:00.821+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:TERN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-2","threadId":64,"dateLogged":"2018-03-05T13:15:01.343+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:TERN","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-2","threadId":64,"dateLogged":"2018-03-05T13:15:01.343+00:00"}
+{"event":"synchronization queued","message":"Total Sync Objects Queued: 833","threadName":"SynchronizationQuartzScheduler_Worker-24","threadId":86,"dateLogged":"2018-03-05T13:14:36.617+00:00"}
+{"event":"synchronization queued","nodeId":"urn:node:PANGAEA","message":"Sync Objects Queued: 833","threadName":"SynchronizationQuartzScheduler_Worker-24","threadId":86,"dateLogged":"2018-03-05T13:14:36.617+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:NEON","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-15","threadId":77,"dateLogged":"2018-03-05T13:15:10.309+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:NEON","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-15","threadId":77,"dateLogged":"2018-03-05T13:15:10.309+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:GOA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-8","threadId":70,"dateLogged":"2018-03-05T13:15:10.322+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:GOA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-8","threadId":70,"dateLogged":"2018-03-05T13:15:10.322+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:IOE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-25","threadId":87,"dateLogged":"2018-03-05T13:15:10.397+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:IOE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-25","threadId":87,"dateLogged":"2018-03-05T13:15:10.397+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:ESA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-3","threadId":65,"dateLogged":"2018-03-05T13:15:10.397+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:ESA","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-3","threadId":65,"dateLogged":"2018-03-05T13:15:10.397+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:DRYAD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-21","threadId":83,"dateLogged":"2018-03-05T13:15:10.419+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:DRYAD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-21","threadId":83,"dateLogged":"2018-03-05T13:15:10.419+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:CLOEBIRD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-11","threadId":73,"dateLogged":"2018-03-05T13:15:10.434+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:CLOEBIRD","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-11","threadId":73,"dateLogged":"2018-03-05T13:15:10.434+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:KNB","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-4","threadId":66,"dateLogged":"2018-03-05T13:15:10.659+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:KNB","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-4","threadId":66,"dateLogged":"2018-03-05T13:15:10.659+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:ARCTIC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-23","threadId":85,"dateLogged":"2018-03-05T13:15:10.787+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:ARCTIC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-23","threadId":85,"dateLogged":"2018-03-05T13:15:10.787+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:TFRI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-22","threadId":84,"dateLogged":"2018-03-05T13:15:10.841+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:TFRI","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-22","threadId":84,"dateLogged":"2018-03-05T13:15:10.841+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:OTS_NDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-6","threadId":68,"dateLogged":"2018-03-05T13:15:11.100+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:OTS_NDC","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-6","threadId":68,"dateLogged":"2018-03-05T13:15:11.100+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:LTER_EUROPE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-7","threadId":69,"dateLogged":"2018-03-05T13:15:11.201+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:LTER_EUROPE","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-7","threadId":69,"dateLogged":"2018-03-05T13:15:11.201+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:PISCO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-20","threadId":82,"dateLogged":"2018-03-05T13:15:11.202+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:PISCO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-20","threadId":82,"dateLogged":"2018-03-05T13:15:11.202+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:PPBIO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-10","threadId":72,"dateLogged":"2018-03-05T13:15:11.587+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:PPBIO","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-10","threadId":72,"dateLogged":"2018-03-05T13:15:11.587+00:00"}
+{"event":"synchronization harvest retrieved","nodeId":"urn:node:SANPARKS","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-14","threadId":76,"dateLogged":"2018-03-05T13:15:21.774+00:00"}
+{"event":"synchronization harvest submitted","nodeId":"urn:node:SANPARKS","message":"0","threadName":"SynchronizationQuartzScheduler_Worker-14","threadId":76,"dateLogged":"2018-03-05T13:15:21.774+00:00"}
+{"event":"synchronization queued","message":"Total Sync Objects Queued: 813","threadName":"SynchronizationQuartzScheduler_Worker-12","threadId":74,"dateLogged":"2018-03-05T13:15:36.613+00:00"}
+{"event":"synchronization queued","nodeId":"urn:node:PANGAEA","message":"Sync Objects Queued: 813","threadName":"SynchronizationQuartzScheduler_Worker-12","threadId":74,"dateLogged":"2018-03-05T13:15:36.613+00:00"}
+{"event":"synchronization queued","message":"Total Sync Objects Queued: 788","threadName":"SynchronizationQuartzScheduler_Worker-5","threadId":67,"dateLogged":"2018-03-05T13:16:36.620+00:00"}
+{"event":"synchronization queued","nodeId":"urn:node:PANGAEA","message":"Sync Objects Queued: 788","threadName":"SynchronizationQuartzScheduler_Worker-5","threadId":67,"dateLogged":"2018-03-05T13:16:36.620+00:00"}
+{"event":"replication status","nodeId":"urn:node:CLOEBIRD","message":"Replica Status COMPLETED:  15","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:DRYAD","message":"Replica Status COMPLETED:  247313","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:KNB","message":"Replica Status INVALIDATED:  197","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnORC1","message":"Replica Status QUEUED:  4","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:SANPARKS","message":"Replica Status INVALIDATED:  4424","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:TERN","message":"Replica Status COMPLETED:  12166","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:US_MPC","message":"Replica Status COMPLETED:  6467","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:US_MPC","message":"Replica Status INVALIDATED:  9","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:KNB","message":"Replica Status FAILED:  964","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:LTER","message":"Replica Status COMPLETED:  412110","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:USGSCSAS","message":"Replica Status COMPLETED:  1151","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:SANPARKS","message":"Replica Status COMPLETED:  2001","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:IARC","message":"Replica Status FAILED:  73","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnORC1","message":"Replica Status COMPLETED:  27087","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:ORNLDAAC","message":"Replica Status INVALIDATED:  977","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:TFRI","message":"Replica Status INVALIDATED:  4","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:KNB","message":"Replica Status COMPLETED:  107218","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:NEON","message":"Replica Status COMPLETED:  487","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:CN","message":"Replica Status COMPLETED:  1046453","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:USGS_SDC","message":"Replica Status COMPLETED:  40180","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:US_MPC","message":"Replica Status FAILED:  344","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:NMEPSCOR","message":"Replica Status FAILED:  133","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:PANGAEA","message":"Replica Status COMPLETED:  195290","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:TFRI","message":"Replica Status FAILED:  769","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnUNM1","message":"Replica Status COMPLETED:  17264","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnORC1","message":"Replica Status INVALIDATED:  261","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:ONEShare","message":"Replica Status COMPLETED:  1772","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:NMEPSCOR","message":"Replica Status COMPLETED:  7462","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnUCSB1","message":"Replica Status QUEUED:  2","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:LTER","message":"Replica Status INVALIDATED:  146","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:RW","message":"Replica Status COMPLETED:  628","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:FEMC","message":"Replica Status COMPLETED:  1590","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:USGSCSAS","message":"Replica Status INVALIDATED:  104","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:mnUCSB1","message":"Replica Status FAILED:  1419","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:EDORA","message":"Replica Status COMPLETED:  28","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:NRDC","message":"Replica Status COMPLETED:  6663","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:ORNLDAAC","message":"Replica Status COMPLETED:  3328","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
+{"event":"replication status","nodeId":"urn:node:ESA","message":"Replica Status COMPLETED:  253","threadName":"pool-8-thread-1","threadId":61,"dateLogged":"2018-03-05T13:17:05.885+00:00"}
