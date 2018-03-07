@@ -43,4 +43,3 @@ Verify execution by::
 The files ``processing_metrics.json`` and ``processing_metrics.txt`` should be
 present in ``/var/www``.
 
-

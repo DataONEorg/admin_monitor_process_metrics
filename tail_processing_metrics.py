@@ -4,6 +4,12 @@ Update a single JSON file based on output from the
   /var/log/dataone/daemon/cn-process-metric.log
 
 file which contains a JSON structure per line.
+
+Visit: 
+
+  https://github.com/DataONEorg/admin_monitor_process_metrics
+
+for more info.
 '''
 
 import sys
